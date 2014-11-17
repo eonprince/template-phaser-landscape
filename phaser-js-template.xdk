@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "8a94b712-0363-494b-a2c8-0d73f76c1cc7",
-      "lastModifiedDate": 1416196708945,
+      "lastModifiedDate": 1416226088262,
       "creationDate": 1416196708880
     },
     "sourceDirectory": "www",
@@ -55,7 +55,8 @@
         "preferences_": {
           "android-minSdkVersion": "10",
           "android-targetSdkVersion": "19",
-          "android-installLocation": "auto"
+          "android-installLocation": "auto",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "phaser-js-template",
@@ -80,7 +81,8 @@
         "preferences_": {
           "android-minSdkVersion": "14",
           "android-targetSdkVersion": "19",
-          "android-installLocation": "auto"
+          "android-installLocation": "auto",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "phaser-js-template",
@@ -104,7 +106,8 @@
         "name_": "iOS",
         "preferences_": {
           "ios-target": "5",
-          "ios-configuration": "adhoc"
+          "ios-configuration": "adhoc",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "phaser-js-template",
@@ -126,7 +129,8 @@
         "name_": "Windows8",
         "preferences_": {
           "windows-publisher-display-name": "",
-          "windows-publisher-id": ""
+          "windows-publisher-id": "",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "phaser-js-template",
