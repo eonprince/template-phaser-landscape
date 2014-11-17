@@ -12,10 +12,9 @@ BasicGame.Game.prototype = {
         this.input.maxPointers = 1;
         this.stage.disableVisibilityChange = true;
         this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
-        this.scale.setMinMax(480, 260, 1024, 768);
         this.scale.pageAlignHorizontally = true;
         this.scale.pageAlignVertically = true;
-        this.scale.forceOrientation(true, false);
+        this.scale.forceOrientation(false, true);
         this.scale.setResizeCallback(this.gameResized, this);
         this.scale.setScreenSize(true);
         this.scale.refresh();
