@@ -33,7 +33,7 @@
     "gameAssetDirectory": "images",
     "gameMetadata": {
       "gameEngineName": "phaser",
-      "gameEngineVersion": "2.1.3"
+      "gameEngineVersion": "2.1.1"
     },
     "projectTags": [
       "XDK-game-app"
