@@ -33,7 +33,7 @@ BasicGame.Game.prototype = {
         // Force the orientation in landscape or portrait.
         // * Set first to true to force landscape. 
         // * Set second to true to force portrait.
-        this.scale.forceOrientation(false, true);
+        this.scale.forceOrientation(true, false);
         // Sets the callback that will be called when the window resize event
         // occurs, or if set the parent container changes dimensions. Use this 
         // to handle responsive game layout options. Note that the callback will
