@@ -21,8 +21,7 @@ Application Files
 * css/stylesheet.css
 * icons/
 * images/
-* lib/phaser/phaser.js
-* lib/movieclip-0.7.1.min.js
+* lib/
 * src/Game.js
 * src/app.js
 * src/cordova-init.js
