@@ -1,16 +1,21 @@
+// create BasicGame Class
 BasicGame = {
 
 };
 
+// create Game function in BasicGame
 BasicGame.Game = function (game) {
 };
 
+// set Game function prototype
 BasicGame.Game.prototype = {
 
     init: function () {
-
+        // set up input max pointers
         this.input.maxPointers = 1;
+        // set up stage disable visibility change
         this.stage.disableVisibilityChange = true;
+        // set up scale
         this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
         this.scale.pageAlignHorizontally = true;
         this.scale.pageAlignVertically = true;
@@ -28,8 +33,9 @@ BasicGame.Game.prototype = {
     },
 
     create: function () {
-
+        // create logo
         this.logo = this.add.sprite(this.world.centerX, this.world.centerY , 'logo');
+        // set logo in game
         this.logo.anchor.setTo(0.5, 0.5);
 
     },
