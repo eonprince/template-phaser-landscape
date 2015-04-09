@@ -1,27 +1,27 @@
 {
+   "mobile" : false,
+   "highlights" : [
+      "Phaser",
+      "Game"
+   ],
+   "articleUrl" : null,
+   "projectTypeName" : "com.intel.xdk.projecttype.jsapp",
    "abbr" : "",
+   "relationship" : "phaser",
+   "repoName" : "template-phaser-landscape",
+   "appName" : "",
    "keywords" : [
       "Blank Project",
       "Game",
       "Phaser"
    ],
    "description" : "Use this template to start with a blank landscape Game from Phaser",
-   "projectTypeName" : "com.intel.xdk.projecttype.jsapp",
+   "appPreview" : false,
+   "relName" : "",
    "gameEngine" : {
       "name" : "phaser"
    },
-   "appName" : "",
-   "appPreview" : "false",
-   "mobile" : "false",
-   "relName" : "",
-   "repoName" : "template-phaser-landscape",
-   "tooltip" : "A blank template for creating games from Phaser",
-   "relationship" : "phaser",
-   "highlights" : [
-      "Phaser",
-      "Game"
-   ],
-   "articleUrl" : null,
    "title" : "Phaser Game Landscape Template",
-   "visible" : "true"
+   "visible" : true,
+   "tooltip" : "A blank template for creating games from Phaser"
 }
