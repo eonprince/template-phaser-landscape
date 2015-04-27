@@ -134,7 +134,7 @@
          "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
         "appDescription_": "Use this template to start with a blank landscape Game from Phaser",
-         "appAuthor_": "Intel XDK",
+         "appAuthor_": "Intel XDK"
       },
       "Windows8": {
         "platform_": "windows8",
@@ -163,7 +163,7 @@
          "crosswalkVersion_": "?",
         "appVersion_": "0.0.0.1",
         "appDescription_": "Use this template to start with a blank landscape Game from Phaser",
-         "appAuthor_": "Intel XDK",
+         "appAuthor_": "Intel XDK"
       },
       "WebApp": {
         "platform_": "webapp",
