@@ -22,6 +22,8 @@
       "name" : "phaser"
    },
    "title" : "Phaser Game Landscape Template",
+   "section" : "templates",
+   "group" : "games",
    "visible" : true,
    "tooltip" : "A blank template for creating games from Phaser"
 }
