@@ -1,3 +1,4 @@
+/* globals Phaser:false */
 // create BasicGame Class
 BasicGame = {
 
